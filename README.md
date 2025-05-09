@@ -1,3 +1,3 @@
 # Modelo_EdificioC
 
-![Image](images/image-1.png)
+![Image](Image/image-1.png)
